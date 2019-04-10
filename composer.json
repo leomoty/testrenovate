@@ -1,0 +1,13 @@
+{
+    "name": "leomo/testrenovate",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Leonardo Bressan Motyczka",
+            "email": "leomoty@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "2.7.0"
+    }
+}
